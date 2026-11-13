@@ -1,161 +1,208 @@
-
-<div align="center">
-
+::: {align="center"}
 # Muhammad Abdullah
 
-### Backend Python Developer | FastAPI | AI/ML
+### Backend Python Developer · FastAPI · AI/ML
 
-Building reliable backend systems, REST APIs, and AI-powered applications.
+Building reliable backend systems, REST APIs, and practical AI-powered
+applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah511/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/abdullah090809)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah511/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah090809)
+:::
 
-</div>
+------------------------------------------------------------------------
 
----
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="58%" valign="top">
+```
+## 👨‍💻 About Me
 
-## About Me
+I'm a Software Engineering graduate focused on backend development with
+Python, building practical software products, and integrating AI into
+real-world applications.
 
-I'm a Software Engineering graduate focused on backend development with Python, building practical software products, and integrating AI into real-world applications.
+-   Developing backend applications with **Python and FastAPI**.
+-   Designing REST APIs and database-driven systems.
+-   Working with **PostgreSQL, SQLAlchemy, Redis, and Celery**.
+-   Exploring **AI, NLP, and speech recognition**.
+-   Interested in reliable, maintainable software engineering.
 
-- Developing backend applications using Python and FastAPI.
-- Designing REST APIs and database-driven systems.
-- Working with PostgreSQL, SQLAlchemy, Redis, and Celery.
-- Exploring AI, Natural Language Processing, and Speech Recognition.
-- Building practical applications with a focus on reliability and maintainability.
+```{=html}
+</td>
+```
+```{=html}
+<td width="42%" valign="top">
+```
+## ⚙️ Tech Stack
 
----
-
-## Technical Skills
-
-**Programming Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Backend & Databases**
+**Backend & Data**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-222222?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
 
-**Tools & Infrastructure**
+**Tools & AI**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**AI & Machine Learning**
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging
+Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Additional Technologies**
-
-SQLAlchemy · Alembic · Celery · BART · Gemini · NLP · Speech Recognition
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Handover Voice Summarizer
-
-AI-powered voice transcription and shift handover summarization application.
-
-**Technologies**
-
-`Python` `FastAPI` `PostgreSQL` `Redis` `Celery` `Docker`
-
-[View Repository →](https://github.com/abdullah090809/Handover_Voice_Summarizer)
-
+```{=html}
 </td>
-<td width="50%" valign="top">
-
-### VidEp — AI Video Analysis
-
-Final Year Project focused on video transcription and AI-powered analysis, including English and Urdu speech recognition.
-
-**Technologies**
-
-`Python` `Whisper` `Hugging Face` `BART` `Streamlit`
-
-[Explore on Hugging Face →](https://huggingface.co/spaces/GogetaBlueMUI/FYP)
-
-</td>
+```
+```{=html}
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### ClipSave
-
-Cross-platform media downloading application.
-
-**Technologies**
-
-`TypeScript` `React Native` `Expo`
-
-[View Repository →](https://github.com/abdullah090809/ClipSave)
-
-</td>
-<td width="50%" valign="top">
-
-### HireFilter
-
-Recruitment platform focused on hiring and candidate management workflows.
-
-**Technologies**
-
-`Python` `FastAPI` `Jinja2` `HTMX`
-
-<em>Private repository — source code not publicly available.</em>
-
-</td>
-</tr>
+```
+```{=html}
 </table>
+```
 
----
+------------------------------------------------------------------------
 
-## Education
+## 🚀 Featured Projects
+
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🎙️ Handover Voice Summarizer
+
+Voice transcription and AI-assisted shift handover summarization for
+care-home workflows.
+
+**Stack:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Redis` `Celery`
+`Docker` `Whisper` `Gemini`
+
+[**View repository
+→**](https://github.com/abdullah090809/Handover_Voice_Summarizer)
+
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🧠 VidEp --- AI Video Analysis
+
+Final Year Project for video transcription and analysis, with English
+and Urdu speech recognition.
+
+**Stack:** `Python` `Whisper` `Hugging Face` `BART` `Streamlit`
+
+[**Explore on Hugging Face
+→**](https://huggingface.co/spaces/GogetaBlueMUI/FYP)
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 📥 ClipSave
+
+Cross-platform media-downloading application with an Android-first
+mobile experience.
+
+**Stack:** `Expo` `React Native` `TypeScript`
+
+[**View repository →**](https://github.com/abdullah090809/ClipSave)
+
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🧩 HireFilter
+
+Recruitment platform project focused on hiring and candidate-management
+workflows.
+
+**Stack:** `Python` `FastAPI` `Jinja2` `HTMX`
+
+Private repository --- source code is not publicly accessible.
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="55%" valign="top">
+```
+## 🎓 Education
 
 **Bachelor of Science in Software Engineering**
 
 Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology
 
-2021 – 2025
+2021 -- 2025
 
----
+```{=html}
+</td>
+```
+```{=html}
+<td width="45%" valign="top">
+```
+## 🤝 Let's Connect
 
-## GitHub Activity
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Abdullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah511/)
 
-Explore my development activity, repositories, and contribution history.
+[![GitHub](https://img.shields.io/badge/GitHub-abdullah090809-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullah090809)
 
-<div align="center">
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
 
-[![GitHub](https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/abdullah090809?tab=repositories)
+------------------------------------------------------------------------
 
-[![GitHub Contributions](https://img.shields.io/badge/View%20Contribution%20History-238636?style=for-the-badge&logo=github)](https://github.com/abdullah090809?tab=overview)
-
-</div>
-
----
-
-## Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Abdullah-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah511/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-abdullah090809-181717?style=for-the-badge&logo=github)](https://github.com/abdullah090809)
-
-<br/>
-
-*Building practical solutions through code, backend engineering, and AI.*
-
-</div>
+::: {align="center"}
+*Building practical solutions through code, backend engineering, and
+AI.*
+:::
